@@ -2,10 +2,10 @@
 
 ```lua
 
-local information =
+local info =
 
 {
- welcome = "Hello, Welcome to my profile!",
+ greeting = "Hello, Welcome to my profile!",
  notice = "I used to be 4c30fSp4des but I got locked out due to 2FA, so this is my new one!",
 
  interests = {
@@ -14,13 +14,13 @@ local information =
   ["Coding/Programming"] - "I mostly use Python, HTML and JS."
  }
 
- socials = {
+ usernames = {
     ["Discord"] = "aceofspades1061",
     ["Reddit"] = "AverageRimWorldPlayr",
     ["Roblox"] = "V0xel_1061",
   },
 
-  repos = {
+  repositories = {
     ["ERROR 404: NOT FOUND"] = "None yet... :["
   },
 
