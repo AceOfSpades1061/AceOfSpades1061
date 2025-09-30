@@ -21,7 +21,8 @@ local info =
   },
 
   repositories = {
-    ["ERROR 404: NOT FOUND"] = "None yet... :["
+    ["SpadesCorner"] = "An advanced proxy based off of Scramjet."
+                       "https://github.com/AceOfSpades1061/SpadesCorner"
   },
 
 }
