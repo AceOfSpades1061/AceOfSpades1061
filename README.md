@@ -1,16 +1,29 @@
-## Hi there 👋
+<!--- S-PScripts --->
 
-<!--
-**AceOfSpades1061/AceOfSpades1061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```lua
 
-Here are some ideas to get you started:
+local information =
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+ welcome = "Hello, Welcome to my profile!",
+ notice = "I used to be 4c30fSp4des but I got locked out due to 2FA, so this is my new one!",
+
+ interests = {
+  ["AI Prompt injection"] = "I like jailbreaking AI and making them do stuff they're not supposed to :]"
+  ["Chromebook Exploiting"] = "Sorta like my interest in AI, but also so I can unenroll my chromebook :D"
+  ["Coding/Programming"] - "I mostly use Python, HTML and JS."
+ }
+
+ socials = {
+    ["Discord"] = "aceofspades1061",
+    ["Reddit"] = "AverageRimWorldPlayr",
+    ["Roblox"] = "V0xel_1061",
+  },
+
+  repos = {
+    ["ERROR 404: NOT FOUND"] = "None yet... :["
+  },
+
+}
+
+```
