@@ -9,7 +9,7 @@ local info =
  notice = "I used to be 4c30fSp4des but I got locked out due to 2FA, so this is my new one!",
 
  interests = {
-  ["AI Prompt injection"] = "I like jailbreaking AI and making them do stuff they're not supposed to :]"
+  ["AI Prompt injection"] = "I like jailbreaking AI and making them say stuff they're not supposed to"
   ["Chromebook Exploiting"] = "Sorta like my interest in AI, but also so I can unenroll my chromebook :D"
   ["Coding/Programming"] - "I mostly use Python, HTML and JS."
  }
