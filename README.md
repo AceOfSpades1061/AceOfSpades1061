@@ -10,8 +10,9 @@ local info =
 
  interests = {
   ["AI Prompt injection"] = "I like jailbreaking AI and making them say stuff they're not supposed to"
-  ["Chromebook Exploiting"] = "Sorta like my interest in AI, but also so I can unenroll my chromebook :D"
-  ["Coding/Programming"] - "I mostly use Python, HTML and JS."
+  ["Chromebook Exploiting"] = "Sorta like my interest in AI, but also so I can get the school off my chromebook."
+  ["Coding/Programming"] - "I mostly use Python, HTML and JS. Experimenting with proxies right now."
+  ["Vibe Coding"] = "Trying out using GenAI to do my work, Might just do manual work if it sucks"
  }
 
  usernames = {
@@ -23,6 +24,7 @@ local info =
   repositories = {
     ["SpadesCorner"] = "An advanced proxy based off of Scramjet."
                        "https://github.com/AceOfSpades1061/SpadesCorner"
+    ["Chromebook-Utilities"] = "A group of exploits/utilities for making your chromebook not do things it's supposed to."
   },
 
 }
