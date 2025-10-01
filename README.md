@@ -24,7 +24,8 @@ local info =
   repositories = {
     ["SpadesCorner"] = "An advanced proxy based off of Scramjet."
                        "https://github.com/AceOfSpades1061/SpadesCorner"
-    ["Chromebook-Utilities"] = "A group of exploits/utilities for making your chromebook not do things it's supposed to."
+    ["ChultraExploits"] = "A group of exploits/utilities for making your (school) chromebook not do things it's supposed to."
+                       "Currently a Private Repo and W.I.P."
   },
 
 }
