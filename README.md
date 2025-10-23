@@ -22,7 +22,7 @@ local info =
   },
 
   repositories = {
-    ["SpadesCorner"] = "An advanced proxy based off of Scramjet."
+    ["SpadesCorner"] = "An advanced proxy based off of Scramjet. [ARCHIVED]"
                        "https://github.com/AceOfSpades1061/SpadesCorner"
     ["LambdaOS"] = "Inspired by AnuraOS."
                        "Currently a Private Repo and W.I.P."
