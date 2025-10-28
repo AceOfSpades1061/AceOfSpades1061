@@ -9,7 +9,7 @@ local info =
  notice = "I used to be 4c30fSp4des but I got locked out due to 2FA, so this is my new one!",
 
  interests = {
-  ["Chromebook Exploiting"] = "Sorta like my interest in AI, but also so I can get the god-forsaken spyware off my chromebook."
+  ["Chromebook Exploiting"] = "lightspeed filter agent is just legal spyware tbh"
   ["Coding/Programming"] - "I mostly use Python, HTML, and JS."
  }
 
