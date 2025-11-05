@@ -7,7 +7,7 @@ local info =
 {
  greeting = "Hello, Welcome to my profile!",
  notice = "I used to be 4c30fSp4des but I got locked out due to 2FA, so this is my new one!",
- monerowallet = "<i gotta fill it out at home>"
+ monero_wallet = "insert placeholder here"
 
  interests = {
   ["Chromebook Exploiting"] = "lightspeed filter agent is just legal spyware tbh"
