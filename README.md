@@ -8,7 +8,7 @@ local info =
  greeting = "Hello, Welcome to my profile!",
  notice = "I used to be 4c30fSp4des but I got locked out due to 2FA, so this is my new one!",
  monero_wallet = "45y8VZng3qC9pks8kLdQ2rDLZQTSnKhpwiwc1TE8FZFHA4ScSStUDkhg2RLoFgjV1SeHExXFDtvc1eFsVbRhNzQf8sAHC82" -- donations would be appreciated :]
- help_needed = "I suspect my P2Pool node isn't working, because I am not receiving XMR even though XMRig says accepted. I could be dumb or it could be something wrong with my config, help would be appreciated"
+ help_needed = "I suspect my P2Pool node isn't working, because I am not receiving XMR even though XMRig says accepted. I could be dumb or there could be something wrong with my config, help would be appreciated"
 
  interests = {
   ["Chromebook Exploiting"] = "lightspeed filter agent is just legal spyware tbh"
