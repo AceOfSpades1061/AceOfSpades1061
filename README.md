@@ -23,10 +23,9 @@ local info =
 
   repositories = {
     ["skiovox-helper_mv3"] = "A port of the helper extension for the skiovox exploit, now ported and used for the new one by crosbreaker."
+                             "https://github.com/AceOfSpades1061/skiovox-helper_mv3"
     ["SpadesCorner"] = "An advanced proxy based off of Scramjet. [ARCHIVED]"
                        "https://github.com/AceOfSpades1061/SpadesCorner"
-    ["LambdaOS"] = "Inspired by AnuraOS."
-                       "Currently a Private Repo and W.I.P."
   },
 
 }
