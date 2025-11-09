@@ -12,7 +12,7 @@ local info =
 
  interests = {
   ["Chromebook Exploiting"] = "lightspeed filter agent is just legal spyware tbh"
-  ["Coding/Programming"] - "I mostly use Python, HTML, and JS."
+  ["Coding/Programming"] = "I mostly use Python, HTML, and JS."
  }
 
  usernames = {
@@ -22,6 +22,7 @@ local info =
   },
 
   repositories = {
+    ["skiovox-helper_mv3"] = "A port of the helper extension for the skiovox exploit, now ported and used for the new one by crosbreaker."
     ["SpadesCorner"] = "An advanced proxy based off of Scramjet. [ARCHIVED]"
                        "https://github.com/AceOfSpades1061/SpadesCorner"
     ["LambdaOS"] = "Inspired by AnuraOS."
