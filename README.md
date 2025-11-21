@@ -1,7 +1,5 @@
-<!--- S-PScripts --->
-
+![Ace's GitHub stats](https://github-readme-stats.vercel.app/api?username=aceofspades1061&show_icons=true&theme=dark)
 ```lua
-
 local info =
 
 {
