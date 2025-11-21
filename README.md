@@ -24,6 +24,8 @@ local info =
                              "https://github.com/AceOfSpades1061/cros-recovery-image-downloader"
     ["skiovox-helper_mv3"] = "A port of the helper extension for the skiovox exploit, now used for the new one by crosbreaker."
                              "https://github.com/AceOfSpades1061/skiovox-helper_mv3"
+    ["Repo to Soon be Unprivated"] = "cool exploit gallery"
+                             "Soon..."
   },
 
 }
