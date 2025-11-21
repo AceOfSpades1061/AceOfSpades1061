@@ -6,7 +6,7 @@ local info =
 
 {
  greeting = "Hello, Welcome to my profile!",
- great_event = "I GOT 2FAUTH WORKING AND NOW I CAN KEEP MY GITHUB ACCOUNT!!!"
+ keeping_account_notice = "I GOT 2FAUTH WORKING AND NOW I CAN KEEP MY GITHUB ACCOUNT!!!"
 
  interests = {
   ["Chromebook Exploiting"] = "lightspeed filter agent is just legal spyware tbh"
