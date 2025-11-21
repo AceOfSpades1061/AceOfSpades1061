@@ -4,7 +4,7 @@
     "bio": "I'm a student interested in Chromebook security vulnerabilities and exploits.",
     "status": "in school (hopefully not for long)",
     "languages_i_code_in": ["Python", "HTML", "JavaScript"],
-    "trying_to_learn": ["Shell", "C++"],
+    "trying_to_learn": ["Shell", "C", "C++"],
     "i_wish": "Schools had a laptop level system, so if you had a bad record with laptops, you would get a worse one in return. That would encourage people to take care of their devices more. So the Chromebook durability test trend doesn't happen again...",
     "i_love": "my pets :]",
     "dream_jobs": ["Security Researcher", "Software Engineer"],
