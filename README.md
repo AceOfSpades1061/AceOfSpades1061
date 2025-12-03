@@ -2,7 +2,7 @@
 {
     "username": "AceOfSpades1061",
     "bio": "I'm a student interested in Chromebook security vulnerabilities and exploits.",
-    "status": "on thanksgiving break!",
+    "status": "back in school :[ only have to go through 3 more weeks tho for winter break",
     "languages_i_code_in": ["Python", "HTML", "JavaScript"],
     "trying_to_learn": ["Shell", "C", "C++"],
     "i_wish": "i could play deltarune",
