@@ -8,12 +8,19 @@
     "i_wish": "i could play deltarune",
     "i_love": "my pets :]",
     "dream_jobs": ["Security Researcher", "Software Engineer"],
-    "cool_projects": [
+    "cool_repositories_i_made": [
+        { 
+            "name": "LunaOS",
+            "WIP": true
+            "description": "A WebOS with a proxy.",
+            "link": "https://github.com/AceOfSpades1061/LunaOS"
+        },
         { 
             "name": "skiovox-helper_mv3",
             "description": "The Skiovox-helper extension ported to MV3 for the new exploit by Crosbreaker.",
             "link": "https://github.com/AceOfSpades1061/skiovox-helper_mv3"
         },
+
         { 
             "name": "cros-recovery-image-downloader",
             "description": "A tool to make finding specific Chromebook recovery images easier.",
