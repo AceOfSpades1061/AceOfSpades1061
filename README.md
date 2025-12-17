@@ -2,7 +2,7 @@
 {
     "username": "AceOfSpades1061",
     "bio": "I'm a student interested in Chromebook security vulnerabilities and exploits.",
-    "status": "back in school :[ only have to go through 3 more weeks tho for winter break",
+    "status": "merry christler",
     "languages_i_code_in": ["Python", "HTML", "JavaScript"],
     "trying_to_learn": ["Shell", "C", "C++"],
     "i_wish": "i could play deltarune",
@@ -10,10 +10,10 @@
     "dream_jobs": ["Security Researcher", "Software Engineer"],
     "cool_repositories_i_made": [
         { 
-            "name": "LunaOS",
+            "name": "Frostbite",
             "WIP": true
-            "description": "A WebOS with a proxy.",
-            "link": "https://github.com/AceOfSpades1061/LunaOS"
+            "description": "A proxy based off scramjet.",
+            "link": "https://github.com/AceOfSpades1061/Frostbite"
         },
         { 
             "name": "skiovox-helper_mv3",
