@@ -2,10 +2,10 @@
 {
     "username": "AceOfSpades1061",
     "bio": "I'm a student interested in Chromebook security vulnerabilities and exploits.",
-    "status": "merry christler",
+    "status": "3 months of school with no breaks, only weekends :[[[",
     "languages_i_code_in": ["Python", "HTML", "JavaScript"],
-    "trying_to_learn": ["Shell", "C", "C++"],
-    "i_wish": "i could play deltarune",
+    "trying_to_learn": ["ChromeOS Internals"],
+    "i_wish": "i was a little bit taller i wish i was a baller",
     "i_love": "my pets :]",
     "dream_jobs": ["Security Researcher", "Software Engineer"],
     "cool_repositories_i_made": [
