@@ -2,6 +2,7 @@
 {
     "username": "AceOfSpades1061",
     "bio": "I'm a student interested in Chromebook security vulnerabilities and exploits.",
+    "affiliated_with": "Crosbreaker: Contributor", "CrOSSploit: Owner"
     "status": "3 months of school with no breaks, only weekends :[[[",
     "languages_i_code_in": ["Python", "HTML", "JavaScript"],
     "trying_to_learn": ["ChromeOS Internals"],
