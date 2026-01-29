@@ -2,8 +2,9 @@
 {
     "username": "AceOfSpades1061",
     "bio": "I'm a student interested in Chromebook security vulnerabilities and exploits.",
-    "affiliated_with": "Crosbreaker: Contributor", "CrOSSploit: Owner"
-    "status": "3 months of school with no breaks, only weekends :[[[",
+    "XMR Wallet": "43WUwngLy5yb7YPUjiCzopjAeSgjmB3TZGowHLqpDV5vGPL6Jk8QYdBXTHzccQB9TyJgm94oCVhGUPnxRW4ZPpaLDMSuaoY",
+    "affiliated_with": "Crosbreaker: Contributor", "CrOSSploit: Owner",
+    "status": "let it snow let it snow let it snow",
     "languages_i_code_in": ["Python", "HTML", "JavaScript"],
     "trying_to_learn": ["ChromeOS Internals"],
     "i_wish": "i was a little bit taller i wish i was a baller",
