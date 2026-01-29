@@ -2,7 +2,7 @@
 {
     "username": "AceOfSpades1061",
     "bio": "I'm a student interested in Chromebook security vulnerabilities and exploits.",
-    "XMR Wallet": "43WUwngLy5yb7YPUjiCzopjAeSgjmB3TZGowHLqpDV5vGPL6Jk8QYdBXTHzccQB9TyJgm94oCVhGUPnxRW4ZPpaLDMSuaoY",
+    "XMR_wallet": "43WUwngLy5yb7YPUjiCzopjAeSgjmB3TZGowHLqpDV5vGPL6Jk8QYdBXTHzccQB9TyJgm94oCVhGUPnxRW4ZPpaLDMSuaoY",
     "affiliated_with": "Crosbreaker: Contributor", "CrOSSploit: Owner",
     "status": "let it snow let it snow let it snow",
     "languages_i_code_in": ["Python", "HTML", "JavaScript"],
