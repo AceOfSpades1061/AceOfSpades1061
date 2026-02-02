@@ -1,6 +1,6 @@
 ```json
 {
-    "username": "AceOfSpades1061",
+    "username": "0x80b1",
     "bio": "I'm a student interested in Chromebook security vulnerabilities and exploits.",
     "XMR_wallet": "43WUwngLy5yb7YPUjiCzopjAeSgjmB3TZGowHLqpDV5vGPL6Jk8QYdBXTHzccQB9TyJgm94oCVhGUPnxRW4ZPpaLDMSuaoY",
     "affiliated_with": "Crosbreaker: Contributor", "CrOSSploit: Owner",
@@ -15,18 +15,18 @@
             "name": "Frostbite",
             "WIP": true
             "description": "A proxy based off scramjet.",
-            "link": "https://github.com/AceOfSpades1061/Frostbite"
+            "link": "https://github.com/0x80b1/Frostbite"
         },
         { 
             "name": "skiovox-helper_mv3",
             "description": "The Skiovox-helper extension ported to MV3 for the new exploit by Crosbreaker.",
-            "link": "https://github.com/AceOfSpades1061/skiovox-helper_mv3"
+            "link": "https://github.com/0x80b1/skiovox-helper_mv3"
         },
 
         { 
             "name": "cros-recovery-image-downloader",
             "description": "A tool to make finding specific Chromebook recovery images easier.",
-            "link": "https://github.com/AceOfSpades1061/cros-recovery-image-downloader"
+            "link": "https://github.com/0x80b1/cros-recovery-image-downloader"
         }
     ],
     "socials": [
