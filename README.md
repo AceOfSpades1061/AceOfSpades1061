@@ -18,6 +18,7 @@
         },
         { 
             "name": "skiovox-helper_mv3",
+            "deprecated": true,
             "description": "The Skiovox-helper extension ported to MV3 for the new exploit by Crosbreaker.",
             "link": "https://github.com/0x80b1/skiovox-helper_mv3"
         },
