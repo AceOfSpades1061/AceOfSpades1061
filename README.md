@@ -1,21 +1,10 @@
 ```json
 {
     "username": "0x80b1",
-    "bio": "I'm a student interested in Chromebook security vulnerabilities and exploits.",
-    "affiliated_with": "Crosbreaker: Contributor", "CrOSSploit: Owner",
-    "status": "let it snow let it snow let it snow",
+    "bio": "I'm a student interested in Chromebook security vulnerabilities.",
     "languages_i_code_in": ["Python", "HTML", "JavaScript"],
     "trying_to_learn": ["ChromeOS Internals"],
-    "i_wish": "i was a little bit taller i wish i was a baller",
-    "i_love": "my pets :]",
-    "dream_jobs": ["Security Researcher", "Software Engineer"],
-    "cool_repositories_i_made": [
-        { 
-            "name": "Frostbite",
-            "WIP": true
-            "description": "A proxy based off scramjet.",
-            "link": "https://github.com/0x80b1/Frostbite"
-        },
+    "cool_repositories_i_own": [
         { 
             "name": "skiovox-helper_mv3",
             "deprecated": true,
