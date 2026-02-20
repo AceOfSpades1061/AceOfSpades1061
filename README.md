@@ -1,39 +1,9 @@
-```json
-{
-    "username": "0x80b1",
-    "bio": "I'm a student interested in Chromebook security vulnerabilities.",
-    "languages_i_code_in": ["Python", "HTML", "JavaScript"],
-    "trying_to_learn": ["ChromeOS Internals"],
-    "cool_repositories_i_own": [
-        { 
-            "name": "skiovox-helper_mv3",
-            "deprecated": true,
-            "description": "The Skiovox-helper extension ported to MV3 for the new exploit by Crosbreaker.",
-            "link": "https://github.com/0x80b1/skiovox-helper_mv3"
-        },
+<p align="center">
+  <img src="https://img.shields.io/github/followers/0x80b1?label=Followers" />
+  <img src="https://img.shields.io/github/stars/0x80b1?affiliations=OWNER%2CCOLLABORATOR" />
+  <img src="https://img.shields.io/github/last-commit/0x80b1/0x80b1" />
+  <img src="https://img.shields.io/badge/Profile-Active-brightgreen" />
+</p>
 
-        { 
-            "name": "cros-recovery-image-downloader",
-            "description": "A tool to make finding specific Chromebook recovery images easier.",
-            "link": "https://github.com/0x80b1/cros-recovery-image-downloader"
-        }
-    ],
-    "socials": [
-        {
-            "platform": "GitHub",
-            "link": "you're already on it ;)"
-        },
-        {
-            "platform": "Roblox",
-            "link": "https://www.roblox.com/users/4595596387/profile"
-        },
-        {
-            "platform": "Spotify",
-            "link": "https://open.spotify.com/user/31hoio4pht6j7dlpg2qp5x3pfhda"
-        },
-        {
-            "platform": "YouTube",
-            "link": "https://www.youtube.com/@V0xel_1061"
-        }
-    ] 
-}
+<h1>hello, world!</h1>
+<img src="hello.gif">
